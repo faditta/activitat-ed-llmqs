@@ -1,0 +1,5 @@
+User-agent:googlebot
+
+sitemap:https://faditta.netlify.app/sitemap.xml
+allow:/*.jpg
+Disallow:privat.html
